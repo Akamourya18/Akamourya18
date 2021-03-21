@@ -1,5 +1,4 @@
 - ## 👋 Hi, I’m Akash. 
-- 
 
 - 👀 I’m interested in competitive programming as well as web development as of now. 
 - 🌱 I’m currently working on MERN Stack.
