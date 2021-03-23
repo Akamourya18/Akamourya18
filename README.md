@@ -1,7 +1,8 @@
-- ## Hi, I’m Akash <img src="https://raw.githubusercontent.com/Akamourya18/Akamourya18/master/Hi.gif" width="30px"></h2>. 
+- ## Hi, I’m Akash <img src="https://raw.githubusercontent.com/Akamourya18/Akamourya18/master/Hi.gif" width="30px"></h2> 
 <a href="https://www.linkedin.com/in/akash-mourya-0373821b0/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br />
 
 - 👀 I’m interested in competitive programming as well as in web development as of now. 
 - 🌱 I’m currently working on MERN Stack.
