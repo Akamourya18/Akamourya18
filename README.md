@@ -1,4 +1,4 @@
-##  Hi, I’m Akash <img src="https://emojis.slackmojis.com/emojis/images/1471045844/812/emo.gif?1471045844" width="30"/> 
+##  Hi, I’m Akash <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 <p align="left"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Akamourya18&repo=Akamourya18&countColorcountColor&countColor=%237B1E7A" /></p>
 
 - 👀 I’m interested in competitive programming as well as in web development as of now
