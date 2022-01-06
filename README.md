@@ -4,9 +4,9 @@
 
 <p align="left"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Akamourya18&repo=Akamourya18&countColorcountColor&countColor=%237B1E7A" /></p>
 
-- 👀 I’m interested in competitive programming as well as in web development as of now
-- 🌱 I’m currently working on MERN Stack
-- 💞️ I’m looking to collaborate on Web development projects
+- 👀 I’m interested in Competitive Programming, Web Development as well as in Machine Learning
+- 🌱 I’m currently working on Machine Learning Projects
+- 💞️ I’m looking to collaborate on Web development or ML projects
 - 📫 How to reach me - E-mail - mouryakash883@gmail.com
 
 ### Languages & Tools:
