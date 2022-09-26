@@ -1,8 +1,12 @@
-![image](https://user-images.githubusercontent.com/70953098/125309699-95cb9200-e34f-11eb-9721-4240191c6b27.png)
+<p align="center"><img src="animation.gif" width="35%"></p>
 
-<h1 align="center"> Hi, I’m Akash <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> </h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Akash+Mourya+%3C3;I'+am+a+4th+yr+Undergraduate+at+NSUT;Upcoming+SDE+@+Publicis+Sapient;Welcome+to+my+profile+!">
+</p>
 
-<p align="left"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Akamourya18&repo=Akamourya18&countColorcountColor&countColor=%237B1E7A" /></p>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 - 👀 I’m interested in Competitive Programming, Web Development as well as in Machine Learning
 - 🌱 I’m currently working on Machine Learning Projects
