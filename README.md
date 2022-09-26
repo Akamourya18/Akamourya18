@@ -7,7 +7,7 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
+<p align="left"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Akamourya18&repo=Akamourya18&countColorcountColor&countColor=%237B1E7A" /></p>
 - 👀 I’m interested in Competitive Programming, Web Development as well as in Machine Learning
 - 🌱 I’m currently working on Machine Learning Projects
 - 💞️ I’m looking to collaborate on Web development or ML projects
