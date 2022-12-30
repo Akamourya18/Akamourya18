@@ -7,11 +7,11 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-<p align="left"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Akamourya18&repo=Akamourya18&countColorcountColor&countColor=%237B1E7A" /></p>
-- 👀 I’m interested in Competitive Programming, Web Development as well as in Machine Learning
-- 🌱 I’m currently working on Machine Learning Projects
-- 💞️ I’m looking to collaborate on Web development or ML projects
-- 📫 How to reach me - E-mail - mouryakash883@gmail.com
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Akamourya18&label=PROFILE+VIEWS" /></p>
+- 👀 I’m interested in Competitive Programming, Web Development as well as in Machine Learning <br>
+- 🌱 I’m currently working on Machine Learning Projects <br>
+- 💞️ I’m looking to collaborate on Web development or ML projects <br>
+- 📫 How to reach me - E-mail - mouryakash883@gmail.com <br>
 
 ### Languages & Tools:
 <p float="left">
@@ -44,10 +44,6 @@
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
-
-<p align = "center">
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Akamourya18&show_icons=true&theme=cobalt&border-radius=1&include_all_commits=true&custom_title=Akash s%20Github%20Stats"/>
 </p>
 
 ### Reach me at:
