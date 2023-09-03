@@ -1,7 +1,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Akash+Mourya+%3C3;I'+am+a+4th+yr+Undergraduate+at+NSUT;Upcoming+SDE;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=200&width=800&lines=Heyyy!+I'm+Akash+Mourya+%3C3;Welcome+to+my+profile+!">
 </p>
 
 <p  align="center">
